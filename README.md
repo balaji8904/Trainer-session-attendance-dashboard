@@ -21,5 +21,5 @@ To run this project locally:
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/your-username/Trainer-session-attendance-dashboard.git](https://github.com/your-username/Trainer-session-attendance-dashboard.git)
+   git clone [https://trainer-attendance-d-8tbo.bolt.host]
    
