@@ -19,7 +19,5 @@ A modern, responsive web application built to monitor and manage student attenda
 
 To run this project locally:
 
-1. Clone this repository:
-   ```bash
- live the link  https://trainer-attendance-d-8tbo.bolt.host
+ "live the link" =https://trainer-attendance-d-8tbo.bolt.host
    
